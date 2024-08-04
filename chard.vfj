@@ -1,0 +1,1372 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":27,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":250
+          }
+        ]
+      },
+      {
+        "name":"a",
+        "unicode":"0061",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":466,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 136 s",
+                        "30 231  91 313  255 313 s",
+                        "302 313  359 302  359 296",
+                        "359 443  306 435  241 435 s",
+                        "180 435  141 422  103 371",
+                        "60 410",
+                        "103 488  166 505  241 505 s",
+                        "369 505  436 442  436 328 s",
+                        "436 254  436 70  436 2",
+                        "366 2",
+                        "357 68",
+                        "313 14  236 -3  173 -3 s",
+                        "86 -3  30 51 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "109 143 s",
+                        "109 84  144 66  189 66 s",
+                        "282 66  359 105  359 237",
+                        "321 246  237 250  196 240 s",
+                        "138 228  109 191 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"g",
+        "unicode":"0067",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":485,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "368 435 s",
+                        "372 429  375 420  377 413",
+                        "379 413",
+                        "377 420  377 430  377 437 s",
+                        "379 500",
+                        "451 500",
+                        "453 329  455 111  455 43 s",
+                        "455 -81 s",
+                        "455 -170  388 -250  259 -250 s",
+                        "153 -250  80 -237  45 -151",
+                        "85 -111",
+                        "158 -181  190 -179  259 -179 s",
+                        "359 -179  379 -113  379 -51 s",
+                        "379 -3 s",
+                        "379 15  378 41  381 65",
+                        "365 38  343 29  327 22 s",
+                        "303 12  268 9  239 9 s",
+                        "109 9  31 90  31 212 s",
+                        "31 237  30 255  30 281 s",
+                        "30 413  112 505  231 505 s",
+                        "290 505  342 474 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "248 78 s",
+                        "291 78  343 99  379 130",
+                        "379 331",
+                        "350 389  291 434  237 434 s",
+                        "166 434  110 359  110 278 s",
+                        "110 255  111 237  111 216 s",
+                        "111 141  173 78 c"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "379 -3 s",
+                                "379 15  378 41  381 65",
+                                "365 38  343 29  327 22 s",
+                                "303 12  268 9  239 9 s",
+                                "109 9  31 90  31 212 s",
+                                "31 237  30 255  30 281 s",
+                                "30 413  112 505  231 505 s",
+                                "297 505  354 466  376 420 {r:-7.1128}",
+                                "379 500",
+                                "451 500",
+                                "453 329  455 111  455 43 s",
+                                "455 -81 s",
+                                "455 -170  388 -250  259 -250 s",
+                                "153 -250  80 -237  45 -151",
+                                "85 -111",
+                                "158 -181  190 -179  259 -179 s",
+                                "359 -179  379 -113  379 -51 s"
+                              ]
+                            },
+                            {
+                              "nodes":[
+                                "248 78 s",
+                                "291 78  343 99  379 130",
+                                "379 331",
+                                "350 389  291 434  237 434 s",
+                                "166 434  110 359  110 278 s",
+                                "110 255  111 237  111 216 s",
+                                "111 141  173 78 c"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"e",
+        "unicode":"0065",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":474,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 223 s",
+                        "30 347  50 505  243 505 s",
+                        "245 505  257 505  257 505 s",
+                        "408 505  439 411  443 293 s",
+                        "444 273  443 253  441 223",
+                        "109 223",
+                        "114 142  122 66  227 66 s",
+                        "235 66  254 66  259 66 s",
+                        "302 66  360 104  382 126",
+                        "424 84",
+                        "391 27  321 -5  263 -5 s",
+                        "247 -5  241 -5  224 -5 s",
+                        "86 -5  30 89 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "109 293",
+                        "368 293",
+                        "368 386  350 437  257 437 s",
+                        "257 437  245 437  243 437 s",
+                        "130 437  109 348 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"c",
+        "unicode":"0063",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":458,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 251 s",
+                        "30 405  128 517  264 517 s",
+                        "335 517  389 485  422 441",
+                        "388 407",
+                        "358 426  310 441  267 441 s",
+                        "178 441  117 364  117 251 s",
+                        "117 138  179 60  269 60 s",
+                        "312 60  354 74  383 100",
+                        "428 55",
+                        "396 14  330 -14  262 -14 s",
+                        "127 -14  30 97 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"l",
+        "unicode":"006c",
+        "lastModified":"2024-08-04 14:53:51",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":282,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 144 s",
+                        "30 700",
+                        "110 700",
+                        "110 154 s",
+                        "110 125  110 65  145 65 s",
+                        "161 65  185 75  210 94",
+                        "252 52",
+                        "229 21  177 -5  135 -5 s",
+                        "40 -5  30 74 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"n",
+        "unicode":"006e",
+        "lastModified":"2024-08-04 06:37:15",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":463,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "30 500",
+                        "94 500",
+                        "111 415",
+                        "136 458  163 504  290 505 s",
+                        "335 506  433 493  433 355 s",
+                        "433 0",
+                        "352 0",
+                        "352 346 s",
+                        "352 447  302 435  248 435 s",
+                        "198 435  135 393  112 332",
+                        "110 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"b",
+        "unicode":"0062",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":472,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "30 700",
+                        "110 700",
+                        "110 414",
+                        "139 480  186 505  257 505 s",
+                        "366 505  442 418  442 306 s",
+                        "442 209 s",
+                        "442 57  391 -5  268 -5 s",
+                        "190 -5  138 18  110 75",
+                        "99 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "110 174",
+                        "143 103  192 65  259 65 s",
+                        "322 65  362 101  362 209 s",
+                        "362 302 s",
+                        "362 375  311 435  232 435 s",
+                        "165 435  129 393  110 330"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"d",
+        "unicode":"0064",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":472,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"b"
+                },
+                "transform":{
+                  "xScale":-1,
+                  "xOffset":472
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"p",
+        "unicode":"0070",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":472,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "component":{
+                    "glyphName":"b"
+                  }
+                },
+                "transform":{
+                  "yScale":-1,
+                  "yOffset":494
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"q",
+        "unicode":"0071",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":472,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"p"
+                },
+                "transform":{
+                  "xScale":-1,
+                  "xOffset":472
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u",
+        "unicode":"0075",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":460,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 254 s",
+                        "30 296  31 394  32 500",
+                        "112 500",
+                        "110 428  110 334  110 290 s",
+                        "110 246  104 155  130 105 s",
+                        "146 74  170 65  220 65 s",
+                        "304 65  330 111  350 169",
+                        "350 500",
+                        "430 500",
+                        "430 0",
+                        "364 0",
+                        "350 72",
+                        "324 24  298 -5  223 -5 s",
+                        "135 -5  69 14  45 105 s",
+                        "37 134  30 171 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"h",
+        "unicode":"0068",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":463,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "30 710",
+                        "110 710",
+                        "112 418",
+                        "146 454  163 504  290 505 s",
+                        "335 506  433 493  433 355 s",
+                        "433 0",
+                        "352 0",
+                        "352 346 s",
+                        "352 447  302 435  248 435 s",
+                        "198 435  144 391  112 332",
+                        "110 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"m",
+        "unicode":"006d",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":685,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "30 500",
+                        "100 500",
+                        "112 418",
+                        "144 451  161 497  265 504 s",
+                        "337 509  359 497  380 412",
+                        "428 482  475 505  562 505 s",
+                        "621 505  655 482  655 355 s",
+                        "655 0",
+                        "574 0",
+                        "574 346 s",
+                        "574 420  562 435  520 435 s",
+                        "470 435  416 391  384 332",
+                        "383 166",
+                        "383 0",
+                        "302 0",
+                        "302 346 s",
+                        "302 412  282 435  248 435 s",
+                        "198 435  144 391  112 332",
+                        "110 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
+            "guidelines":[
+              {
+                "vertical":true,
+                "position":69
+              },
+              {
+                "vertical":true,
+                "position":652
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"i",
+        "unicode":"0069",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":151,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "88 0",
+                        "88 500",
+                        "168 500",
+                        "168 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "83 607",
+                        "83 700",
+                        "174 700",
+                        "174 607"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-53
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"j",
+        "unicode":"006a",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":306,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "185 607",
+                        "185 696 s",
+                        "185 699  186 700  189 700 s",
+                        "276 700",
+                        "276 611 s",
+                        "276 608  275 607  272 607 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "30 -125",
+                        "70 -85",
+                        "89 -104  112 -105  133 -105 s",
+                        "181 -105  190 -55  190 -5 s",
+                        "190 500",
+                        "270 500",
+                        "270 -24 s",
+                        "270 -131  211 -183  132 -183 s",
+                        "75 -183  53 -168 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"k",
+        "unicode":"006b",
+        "lastModified":"2024-08-04 06:39:52",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":473,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "110 301 s",
+                        "110 292  109 280  106 272",
+                        "108 272",
+                        "111 280  117 289  123 296 s",
+                        "294 500",
+                        "401 500",
+                        "219 286 s",
+                        "214 280  207 273  199 273",
+                        "199 271",
+                        "207 271  214 265  219 259 s",
+                        "443 0",
+                        "334 0",
+                        "153 211",
+                        "110 167",
+                        "110 0",
+                        "30 0",
+                        "30 700",
+                        "110 700"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "30 0",
+                                "30 700",
+                                "110 700",
+                                "110 281 {r:-9.6905}",
+                                "294 500",
+                                "401 500",
+                                "207 272 {r:-7.8136}",
+                                "443 0",
+                                "334 0",
+                                "153 211",
+                                "110 167",
+                                "110 0"
+                              ]
+                            }
+                          ]
+                        },
+                        "active":true
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"f",
+        "unicode":"0066",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":389,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "110 -9",
+                        "110 492 s",
+                        "110 650  150 705  243 705 s",
+                        "302 705  338 672  359 637",
+                        "323 601",
+                        "308 617  286 627  261 627 s",
+                        "202 627  190 605  190 515 s",
+                        "190 -9"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "30 418",
+                        "30 488",
+                        "305 488",
+                        "305 418"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"o",
+        "unicode":"006f",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":521,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 251 s",
+                        "30 404  122 506  261 506 s",
+                        "399 506  491 404  491 251 s",
+                        "491 97  399 -5  261 -5 s",
+                        "122 -5  30 97 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "113 252 s",
+                        "113 138  173 60  261 60 s",
+                        "348 60  409 138  409 251 s",
+                        "409 364  348 441  260 441 s",
+                        "173 441  113 365 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"r",
+        "unicode":"0072",
+        "lastModified":"2024-08-04 06:41:10",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":381,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "30 500",
+                        "95 500",
+                        "112 445",
+                        "140 491  174 505  224 505 s",
+                        "284 505  318 482  351 442",
+                        "311 393",
+                        "293 412  262 431  224 431 s",
+                        "190 431  138 386  112 331",
+                        "112 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"s",
+        "unicode":"0073",
+        "lastModified":"2024-08-04 14:53:51",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":444,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 80",
+                        "83 129",
+                        "104 86  161 57  228 57 s",
+                        "291 57  334 82  334 121 s",
+                        "334 177  248 196  209 207 s",
+                        "100 238  31 301  31 371 s",
+                        "31 448  116 506  224 506 s",
+                        "306 506  378 473  403 423",
+                        "355 379",
+                        "328 414  275 438  219 438 s",
+                        "158 438  111 410  111 367 s",
+                        "111 258  414 291  414 129 s",
+                        "414 46  334 -11  226 -11 s",
+                        "140 -11  62 25 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"t",
+        "unicode":"0074",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":361,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 419",
+                        "316 419",
+                        "316 499",
+                        "30 499"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "109 144 s",
+                        "109 74  119 -5  214 -5 s",
+                        "256 -5  308 21  331 52",
+                        "289 94",
+                        "264 75  240 65  224 65 s",
+                        "189 65  189 125  189 154 s",
+                        "189 700",
+                        "109 700"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"v",
+        "unicode":"0076",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":497,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 500",
+                        "225 196",
+                        "246 92",
+                        "251 92",
+                        "273 196",
+                        "380 500",
+                        "467 500",
+                        "288 0",
+                        "210 0",
+                        "30 500"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"w",
+        "unicode":"0077",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":776,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "257 183 s",
+                        "270 154  278 114  277 82",
+                        "279 82",
+                        "280 114  292 153  307 181 s",
+                        "348 261",
+                        "229 500",
+                        "316 500",
+                        "373 380 s",
+                        "382 361  388 336  388 315",
+                        "390 315",
+                        "390 336  398 361  408 379 s",
+                        "471 500",
+                        "563 500",
+                        "432 256",
+                        "466 185 s",
+                        "480 155  492 113  492 80",
+                        "494 80",
+                        "494 113  503 155  517 185 s",
+                        "659 500",
+                        "746 500",
+                        "522 0",
+                        "477 0",
+                        "406 143 s",
+                        "398 160  391 183  391 202",
+                        "389 202",
+                        "389 183  382 161  373 144 s",
+                        "295 0",
+                        "250 0",
+                        "30 500",
+                        "117 500"
+                      ]
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "250 0",
+                                "30 500",
+                                "117 500",
+                                "280 130 {r:-47.656}",
+                                "348 261",
+                                "229 500",
+                                "316 500",
+                                "390 344 {r:-29.4557}",
+                                "471 500",
+                                "563 500",
+                                "432 256",
+                                "492 130 {r:-50.4881}",
+                                "659 500",
+                                "746 500",
+                                "522 0",
+                                "477 0",
+                                "390 176 {r:-26.2988}",
+                                "295 0"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.67,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"x",
+        "unicode":"0078",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":531,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "237 354 s",
+                        "253 333  265 302  265 276",
+                        "267 276",
+                        "267 302  285 332  299 353 s",
+                        "402 500",
+                        "501 500",
+                        "315 248",
+                        "499 0",
+                        "400 0",
+                        "288 157 s",
+                        "279 170  267 187  267 204",
+                        "265 204",
+                        "265 187  257 168  247 155 s",
+                        "132 0",
+                        "33 0",
+                        "216 248",
+                        "30 500",
+                        "129 500"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"y",
+        "unicode":"0079",
+        "lastModified":"2024-08-04 15:02:33",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":513,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "221 242",
+                        "221 242  263 90  263 90",
+                        "265 90",
+                        "292 202",
+                        "394 500",
+                        "483 500",
+                        "284 -46",
+                        "256 -121  198 -181  141 -181 s",
+                        "101 -181  63 -161  48 -115",
+                        "88 -75",
+                        "108 -95  125 -107  141 -107 s",
+                        "157 -107  201 -64  221 0",
+                        "30 500",
+                        "119 500"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"z",
+        "unicode":"007a",
+        "lastModified":"2024-08-04 06:35:28",
+        "layers":[
+          {
+            "name":"Regular",
+            "flags":0,
+            "advanceWidth":452,
+            "metricsLeft":"=30",
+            "metricsRight":"=30",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "30 77",
+                        "321 419",
+                        "30 419",
+                        "30 496",
+                        "422 496",
+                        "422 419",
+                        "131 77",
+                        "422 77",
+                        "422 0"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2024-8-3 17:13\n# Generated by: FontLab 8.0.0\n#\n# Totals:\n# Languagesystems: 0\n# GSUB lookups: 0\n# GPOS lookups: 0\n\n#\n# Languagesystem definitions\n#\n\n#> languagesystem\nlanguagesystem DFLT dflt;\nlanguagesystem latn dflt;\n#< languagesystem\n\n\n#\n# Lookup definitions\n#\n"
+      }
+    ],
+    "hinting":{
+    },
+    "info":{
+      "tfn":"Chard",
+      "sgn":"Chard",
+      "creationDate":"2024/07/28 16:33:16",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"Version 1.000",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"8898"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"Chard",
+          "ffn":"Chard Regular",
+          "psn":"Chard-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":750,
+          "descender":-250,
+          "xHeight":500,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":750,
+          "safeBottom":250,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "cornerTension":0.67,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "guidelines":[
+            {
+              "name":"base_overshoot",
+              "style":"custom",
+              "horizontal":true,
+              "auto":true,
+              "position":-5,
+              "thickness":70
+            },
+            {
+              "name":"x_overshoot",
+              "style":"custom",
+              "horizontal":true,
+              "position":505,
+              "thickness":-70
+            }
+          ],
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":false,
+            "OpticalLeft":0,
+            "OpticalRight":0,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-250,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":300,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+          },
+          "fontStemsH":[
+            {
+              "value":70,
+              "name":"70"
+            },
+            {
+              "value":70,
+              "name":"H:70"
+            }
+          ],
+          "fontStemsV":[
+            {
+              "value":80,
+              "name":"80"
+            }
+          ],
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"750",
+            "Descender":"-250",
+            "CapsHeight":"700",
+            "XHeight":"500",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ],
+    "expressionsUpdated":true
+  }
+}
